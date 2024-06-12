@@ -1,2 +1,21 @@
 # pcode
-a gcode parser in penguinmod
+## a laser gcode parser in penguinmod
+## Info
+### Supported codes:
+#### Full support
+ - M106
+ - M107
+ - G0
+ - G1
+ - X
+ - Y
+#### Partial support
+ - R
+ - I
+ - J
+ - G2
+ - G3
+### Usage
+To use, right click the list and import a gcode file of your choice, then press space to render
+## Warning
+still in very heavy development
