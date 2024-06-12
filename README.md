@@ -1,6 +1,6 @@
 # pcode
 ## a laser gcode parser in penguinmod
-## [click to run online](https://pcode.cbass92.org)
+## [click to run online](https://pcode.cbass92.org/pcode.html)
 ## Info
 ### Supported codes:
 #### Full support
